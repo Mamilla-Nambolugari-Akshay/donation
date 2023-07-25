@@ -1,3 +1,7 @@
+THE APPLICATION NAME IS DONATION MANAGEMENT
+
+IT IS IMPLEMENTED BY USING REACTJS 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
